@@ -80,4 +80,7 @@ Web Development Demo Pages collection<br><br>
   <img src="https://contrib.rocks/image?repo=keshavgbpecdelhi/Web-Development" style="float:none;" /></p>
 </a>
 
-## this empty  okk
+<<<<<<< HEAD
+it is empty okk
+====
+>>>>>>> origin/main
